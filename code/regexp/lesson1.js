@@ -1,0 +1,1 @@
+export default str => /^(\w+)\1+$/.test(str)
